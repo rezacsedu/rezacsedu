@@ -9,4 +9,4 @@ I'm passionate about applied ML, knowledge graphs, and explainable AI (XAI). My 
 - 🔹**Data science mentor**: https://www.facebook.com/AwesomeDataScience/ 
 - 🔸**Google Scholar**: https://scholar.google.de/citations?user=LTTNF64AAAAJ&hl=en
 
-- ![Github stats](https://github-readme-stats.vercel.app/api?username=rezacsedu&show_icons=true&hide_border=true)
+- ![Github stats](https://github-readme-stats.vercel.app/api?username=rezacsedu&show_icons=true&hide_border=true). 
