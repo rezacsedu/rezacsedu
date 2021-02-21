@@ -13,8 +13,8 @@ I'm an Applied & Data Scientist at Fraunhofer FIT, Germany with 11 years of expe
 
 I'm passionate about applied ML, knowledge graphs, and explainable AI (XAI). My works are mostly focused on on bioinformatics, computer vision, and NLP.
 
-- 📫 **How to reach me?**
-- 
+**How to reach me?**
+
 - ***Email***: rezaul.karim.fit@gmail.com
 - ***GitHub***: https://github.com/rezacsedu
 - ***Data science mentor***: https://www.facebook.com/AwesomeDataScience/ 
