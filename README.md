@@ -5,7 +5,6 @@ I'm an Applied & Data Scientist with 11 years of experience adept and experience
 I'm passionate about applied ML, knowledge graphs, and explainable AI (XAI). My works are mostly focused on on bioinformatics, computer vision, and NLP.
 
 - ![Github stats](https://github-readme-stats.vercel.app/api?username=rezacsedu&show_icons=true&hide_border=true)
-
 - 📫 **How to reach me**: rezaul.karim.fit@gmail.com
 - **GitHub**: https://github.com/rezacsedu
 - 🔹**Data science mentor**: https://www.facebook.com/AwesomeDataScience/ 
