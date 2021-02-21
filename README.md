@@ -4,13 +4,13 @@ I'm an Applied & Data Scientist at Fraunhofer FIT, Germany with 11 years of expe
 
 **Why statement**
 
-- I’m a technology lover, particularly related to data science, machine/deep learning, and explainable AI, distributed analytics, Apache Spark. 
+- I’m a technology lover, particularly related to data science, machine/deep learning, and explainable AI (XAI), distributed analytics, Apache Spark. 
 - I love learning, mentoring, coding! Oh yeah, I wrote several books on machine learning, deep learning, and big data engineering.
 - I believe in reprodcuable research, hence I loving sharing my codes and implementations on GitHub! 
 
 **Research Interests** 
 
-I'm passionate about applied ML, knowledge graphs, and explainable AI (XAI). My works are mostly focused on on bioinformatics, computer vision, and NLP.
+I'm passionate about applied ML, knowledge graphs, and XAI. My works are mostly focused on on bioinformatics, computer vision, and NLP.
 
 **How to reach me?**
 
