@@ -21,4 +21,4 @@ I'm passionate about applied ML, knowledge graphs, and explainable AI (XAI). My 
 - LinkedIn: https://www.linkedin.com/in/karimanalytics/ 
 - ResearchGate: https://www.researchgate.net/profile/Md_Karim34 
 
-- ![Github stats](https://github-readme-stats.vercel.app/api?username=rezacsedu&show_icons=true&hide_border=false).
+![Github stats](https://github-readme-stats.vercel.app/api?username=rezacsedu&show_icons=true&hide_border=false).
