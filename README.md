@@ -10,7 +10,7 @@ I'm an Applied & Data Scientist at Fraunhofer FIT, Germany with 11 years of expe
 
 **Research Interests** 
 
-I'm passionate about applied ML, knowledge graphs, and XAI. My works are mostly focused on on bioinformatics, computer vision, and NLP.
+I'm passionate about applied ML, knowledge graphs, and XAI. My works are mostly focused on bioinformatics, computer vision, and NLP.
 
 **How to reach me?**
 
