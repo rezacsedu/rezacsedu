@@ -4,7 +4,7 @@ I'm an Data Scientist at Fraunhofer FIT, Germany with 11 years of experience ade
 
 **Why statement**
 
-- I’m a technology lover, particularly related to data science, machine/deep learning, and explainable AI (XAI), distributed analytics, Apache Spark. 
+- I’m a technology lover, particularly Re: data science, machine/deep learning, and explainable AI (XAI), distributed analytics, Apache Spark. 
 - I love learning, mentoring, coding! Oh yeah, I wrote several books on machine learning, deep learning, and big data engineering.
 - I believe in reprodcuable research, hence I loving sharing my codes and implementations on GitHub! 
 
