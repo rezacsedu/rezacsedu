@@ -15,9 +15,10 @@ I'm passionate about applied ML, knowledge graphs, and explainable AI (XAI). My 
 
 **How to reach me?**
 
-- ***Email***: rezaul.karim.fit@gmail.com
-- ***GitHub***: https://github.com/rezacsedu
-- ***Data science mentor***: https://www.facebook.com/AwesomeDataScience/ 
-- ***Google Scholar***: https://scholar.google.de/citations?user=LTTNF64AAAAJ&hl=en
+- Email: rezaul.karim.fit@gmail.com
+- Data science mentor: https://www.facebook.com/AwesomeDataScience/ 
+- Google Scholar: https://scholar.google.de/citations?user=LTTNF64AAAAJ&hl=en
+- LinkedIn: https://www.linkedin.com/in/karimanalytics/ 
+- ResearchGate: https://www.researchgate.net/profile/Md_Karim34 
 
 - ![Github stats](https://github-readme-stats.vercel.app/api?username=rezacsedu&show_icons=true&hide_border=true).
