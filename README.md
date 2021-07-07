@@ -15,6 +15,6 @@ I'm passionate about applied ML, knowledge graphs, and XAI. My works are mostly 
 **How to reach me?**
 
 - Email: rezaul.karim.fit@gmail.com
-- LinkedIn: https://www.linkedin.com/in/karimanalytics/ 
+- LinkedIn: https://www.linkedin.com/in/karimrwth/ 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=rezacsedu&show_icons=true&hide_border=false).
