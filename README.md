@@ -1,4 +1,5 @@
 **Who am I?**
+
 I'm a Data Scientist at Fraunhofer FIT, Germany. With 11 years of experience, I'm adept and experienced at: i) analyzing large-scale datasets, ii) developing accurate predictive models, iii) applying advanced analytical methods to deliver actionable insights, iv) implementing data-driven solutions to complex business and research problems, and v) making them interpretable. I hold B.Sc. (from the University of Dhaka, Bangladesh in 2008) and M.Sc. (from the Kyung Hee University, Korea in 2012) degrees in Computer Science. Before joining Fraunhofer FIT, I worked as a Data Science Researcher at Insight Centre for Data Analytics, Ireland. Even before that, I worked as a Lead Engineer at Samsung Electronics, Korea. I'm also a PhD candidate at RWTH Aachen University and soon to be graduated! 
 
 **Why statement**
