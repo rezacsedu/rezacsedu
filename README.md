@@ -16,3 +16,9 @@ I'm passionate about applied ML, knowledge graphs, and XAI. My works are mostly 
 - LinkedIn: https://www.linkedin.com/in/karimrwth/ 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=rezacsedu&show_icons=true&hide_border=false).
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/rezacsedu/count.svg" />
+</p>
+<div align="center">
