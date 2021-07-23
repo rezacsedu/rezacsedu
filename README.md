@@ -14,7 +14,11 @@ I'm passionate about applied ML, knowledge graphs, and XAI. My works are mostly 
 **How to reach me?**
 - Email: rezaul.karim.fit@gmail.com
 - LinkedIn: https://www.linkedin.com/in/karimrwth/ 
+- Twitter: https://twitter.com/asifkarim85 
 
+<a href="https://github.com/rezacsedu">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezacsedu&&theme=dracula&hide_langs_below=1" />
+</a>
 ![Github stats](https://github-readme-stats.vercel.app/api?username=rezacsedu&show_icons=true&hide_border=false).
 
 <p align="center"> 
