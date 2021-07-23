@@ -23,12 +23,12 @@ I'm always open for potential research and freelance opportunities:
 <!-- <a href="https://github.com/rezacsedu">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezacsedu&&theme=dracula&hide_langs_below=1" />
 </a> -->
-![Github stats](https://github-readme-stats.vercel.app/api?username=rezacsedu&show_icons=true&hide_border=false)
+![Github stats](https://github-readme-stats.vercel.app/api?username=rezacsedu&show_icons=true&hide_border=false) <img src="https://profile-counter.glitch.me/rezacsedu/count.svg" />
 
-<p align="left"> 
+<!-- <p align="left"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/rezacsedu/count.svg" />
-</p>
+</p> -->
 <div align="left">  
 Please don't forget to give me stars, if you like this readme file or any resources from my repos! 
 </div> 
