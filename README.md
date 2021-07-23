@@ -26,5 +26,5 @@ I'm passionate about applied ML, knowledge graphs, and XAI. My works are mostly 
   <img src="https://profile-counter.glitch.me/rezacsedu/count.svg" />
 </p>
 <div align="left">  
-#### Please don't forget to give me stars, if you like this readme file or any resources from my repos! 
+Please don't forget to give me stars, if you like this readme file or any resources from my repos! 
 </div> 
