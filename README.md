@@ -11,8 +11,9 @@
 - Opinios are mine, not my employer! 
 
 #### Research Interests
-
+<div align="justify">
 I'm passionate about data science, applied ML, knowledge graphs, and explainable AI (XAI), with focuses on healthcare, bioinformatics, computer vision, and NLP.
+</div>
 
 #### How to reach me?
 I'm always open for potential research and freelance opportunities: 
