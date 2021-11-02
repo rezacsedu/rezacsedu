@@ -1,5 +1,5 @@
 #### Who am I?
-<div align="center">
+<div align="justified">
   I'm a Data Scientist at Fraunhofer FIT, Germany. With 11 years of experience, Adept and experienced at analyzing large-scale datasets, developing accurate predictive models using advanced analytical methods, and implementing data-driven solutions to complex research and business problems and making them interpretable to deliver actionable insights. I'm passionate about data science, machine learning, knowledge graphs, and explainable AI (XAI). I'm also a PhD candidate at RWTH Aachen University and soon to be graduated! 
 </div>
 
