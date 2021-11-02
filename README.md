@@ -5,7 +5,7 @@ I'm a Data Scientist at Fraunhofer FIT, Germany. With 11 years of experience, Ad
 #### Why statement
 
 - I'm a technology lover. I love data science, machine learning, explainable AI (XAI), distributed data analytics, Apache Spark. 
-- I love learning, mentoring, coding! Oh yeah, I wrote several [books](https://www.amazon.com/s?k=Md.+Rezaul+Karim&ref=nb_sb_noss) too on machine learning, deep learning, and big data engineering.
+- I love learning, mentoring, coding! Oh yeah, I wrote several machine learning, deep learning, and big data engineering [books](https://www.amazon.com/s?k=Md.+Rezaul+Karim&ref=nb_sb_noss) too.
 - I advocate and ecourage reprodcuable research, hence I loving sharing my codes and implementations on GitHub! 
 - Opinios are mine, not my employer! 
 
