@@ -8,7 +8,7 @@
 - I'm a technology lover. I love data science, machine learning, explainable AI (XAI), distributed data analytics, Apache Spark. 
 - I love learning, mentoring, and coding! Oh yeah, I wrote several machine learning, deep learning, & data engineering [books](https://www.amazon.com/s?k=Md.+Rezaul+Karim&ref=nb_sb_noss) too.
 - I advocate and ecourage reprodcuable research, hence I loving sharing my codes and implementations on GitHub! 
-- Opinios are mine, not my employer! 
+- Opinios are mine, not my employer's! 
 
 #### Research Interests
 <div align="justify">
