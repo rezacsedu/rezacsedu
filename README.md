@@ -12,7 +12,7 @@ I'm a Senior Data Scientist at Fraunhofer FIT, Germany. I'm adept and experience
 
 #### Interests: 
 <div align="justify">
-I'm passionate about data science, applied ML, knowledge graphs, and explainable AI (XAI), with focuses on healthcare, bioinformatics, computer vision, and NLP.
+I'm passionate about data science, applied ML, knowledge graphs, explainable AI (XAI), computer vision, and NLP.
 </div>
 
 #### How to reach me?
