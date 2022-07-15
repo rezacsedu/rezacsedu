@@ -1,11 +1,11 @@
 #### Who am I?
 <div align="justify">
-I'm a Senior Data Scientist at Fraunhofer FIT, Germany. I'm adept and experienced at analyzing large-scale datasets, developing accurate predictive models using advanced analytical methods, and implementing data-driven solutions to complex research and business problems and making them interpretable to deliver actionable insights. I'm passionate about data science, machine learning, knowledge graphs, and explainable AI (XAI). I'm also a PhD candidate at RWTH Aachen University and soon to be graduated! 
+I'm a Senior Data Scientist at Fraunhofer FIT, Germany. I'm adept and experienced at analyzing large-scale datasets, developing accurate predictive models using advanced analytical methods, and implementing data-driven solutions to complex research and business problems towards making them interpretable to deliver actionable insights. I did my PhD from RWTH Aachen University, Germany with distinction (Summan Cum Laude)! 
 </div>
 
 #### Why: 
 
-- I'm a technology lover. I love data science, machine learning, explainable AI (XAI), distributed data analytics, Apache Spark. 
+- I'm a technology lover. I love data science, applied machine learning, explainable AI (XAI), and distributed data analytics. 
 - I love learning, mentoring, and coding! Oh yeah, I wrote several machine/deep learning & data engineering [books](https://www.amazon.com/s?k=Md.+Rezaul+Karim&ref=nb_sb_noss) too.
 - I advocate and ecourage reprodcuable research, hence I loving sharing my codes and implementations on GitHub! 
 - Opinions are mine, not my employer's! 
