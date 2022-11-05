@@ -1,6 +1,6 @@
 #### Who am I?
 <div align="justify">
-I'm a Senior Data Scientist at Fraunhofer FIT, Germany. I'm adept and experienced at analyzing large-scale datasets, developing accurate predictive models using advanced analytical methods, and implementing data-driven solutions to complex problems towards making them well-interpretable. I did my PhD from RWTH Aachen University, Germany with distinction (Summan Cum Laude)! 
+I'm a Senior Data Scientist at Fraunhofer FIT and a Postdoctoral Researcher, RWTH Aachen University, Germany. I'm adept and experienced at analyzing large-scale datasets, developing accurate predictive models using advanced analytical methods, and implementing data-driven solutions to complex problems towards making them well-interpretable. I did my PhD from RWTH Aachen University, Germany with distinction (Summan Cum Laude)! 
 </div>
 
 #### Why: 
@@ -12,7 +12,7 @@ I'm a Senior Data Scientist at Fraunhofer FIT, Germany. I'm adept and experience
 
 #### Interests: 
 <div align="justify">
-I'm passionate about data science, applied ML, knowledge graphs, explainable AI (XAI), computer vision, and NLP.
+I'm passionate about data science, applied ML, explainable AI (XAI) for computer vision and NLP.
 </div>
 
 #### How to reach me?
