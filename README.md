@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/karimrwth/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-Follow%20Reza-blue?logo=linkedin" /></a>
   <a href="https://rezacsedu.github.io/" target="_blank"></a>
-  <a href="https://twitter.com/intent/follow?screen_name=asifkarim85" target="_blank"><img src="https://img.shields.io/twitter/follow/asifkarim85?style=social" />
+  <a href="https://twitter.com/intent/follow?screen_name=asifkarim85" target="_blank"><img src="https://img.shields.io/twitter/follow/asifkarim85?style=social"/></a>
 </p>
 
 #### Who am I?
