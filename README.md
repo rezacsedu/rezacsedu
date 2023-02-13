@@ -6,11 +6,10 @@
 
 #### Who am I?
 <div align="justify">
-I'm a Senior Data Scientist at ALDI SÜD - Global Data & Analytics and a Postdoctoral Researcher, RWTH Aachen University, Germany. I'm adept and experienced at analyzing large-scale datasets, developing accurate predictive models using advanced analytical methods, and implementing data-driven solutions to complex problems towards making them well-interpretable. I did my PhD in Computer Science from RWTH Aachen University, Germany under the supervision of Prof. Dr. Stefan Decker, with distinction (Summan Cum Laude)! 
+I'm a Senior Data Scientist at ALDI SÜD - Global Data & Analytics and a Postdoctoral Researcher, RWTH Aachen University, Germany. I did my PhD in Computer Science from RWTH Aachen University, Germany under the supervision of Prof. Dr. Stefan Decker, with distinction (Summan Cum Laude)! I'm adept and experienced at analyzing large-scale datasets, developing accurate predictive models using advanced analytical methods, and implementing data-driven solutions to complex problems towards making them well-interpretable. 
 </div>
 
 #### Why: 
-
 - I'm a technology lover. I love data science, applied machine learning, explainable AI (XAI), and distributed data analytics. 
 - I love learning, mentoring, and coding! Oh yeah, I wrote several machine/deep learning & data engineering [books](https://www.amazon.com/s?k=Md.+Rezaul+Karim&ref=nb_sb_noss) too.
 - I advocate and ecourage reprodcuable research, hence I loving sharing my codes and implementations on GitHub! 
@@ -27,6 +26,7 @@ I'm passionate about data science, applied ML, explainable AI (XAI), and knowled
 I'm always open for potential research and freelance opportunities: 
 
 - Email: rezaul.karim.fit@gmail.com
+- Personal website: https://rezacsedu.github.io/ 
 - LinkedIn: https://www.linkedin.com/in/karimrwth/ 
 - Twitter: https://twitter.com/asifkarim85 
 
