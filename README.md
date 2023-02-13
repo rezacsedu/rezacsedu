@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://www.linkedin.com/in/karimrwth/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-Follow%20Reza-blue?logo=linkedin" /></a>
+  <a href="https://rezacsedu.github.io//?utm_source=github&utm_campaign=github-readme" target="_blank"><img src="https://rezacsedu.github.io/" /></a>
+  <!--<a href="https://twitter.com/intent/follow?screen_name=miguelgfierro" target="_blank"><img src="https://img.shields.io/twitter/follow/miguelgfierro?style=social" /></a>-->
+</p>
+
 #### Who am I?
 <div align="justify">
 I'm a Senior Data Scientist at Fraunhofer FIT and a Postdoctoral Researcher, RWTH Aachen University, Germany. I'm adept and experienced at analyzing large-scale datasets, developing accurate predictive models using advanced analytical methods, and implementing data-driven solutions to complex problems towards making them well-interpretable. I did my PhD in Computer Science from RWTH Aachen University, Germany under the supervision of Prof. Dr. Stefan Decker, with distinction (Summan Cum Laude)! 
