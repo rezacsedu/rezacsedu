@@ -6,7 +6,7 @@
 
 #### Who am I?
 <div align="justify">
-I'm a Senior Data Scientist at ALDI SÜD - Global Data & Analytics and a Postdoctoral Researcher, RWTH Aachen University, Germany. I did my PhD in Computer Science from RWTH Aachen University, Germany under the supervision of Prof. Dr. Stefan Decker, with distinction (Summan Cum Laude)! I'm adept and experienced at analyzing large-scale datasets, developing accurate predictive models using advanced analytical methods, and implementing data-driven solutions to complex problems towards making them well-interpretable. 
+I'm a Senior Data Scientist at ALDI SÜD - Global Data & Analytics and a Postdoctoral Researcher, RWTH Aachen University. I did my PhD in Computer Science from RWTH Aachen University, Germany under the supervision of Prof. Dr. Stefan Decker, with distinction (Summan Cum Laude)! I'm adept and experienced at analyzing large-scale datasets, developing accurate predictive models using advanced analytical methods, and implementing data-driven solutions to complex problems towards making them well-interpretable. 
 </div>
 
 #### Why: 
