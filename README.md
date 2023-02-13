@@ -14,11 +14,13 @@ I'm a Senior Data Scientist at ALDI SÜD - Global Data & Analytics and a Postdoc
 - I'm a technology lover. I love data science, applied machine learning, explainable AI (XAI), and distributed data analytics. 
 - I love learning, mentoring, and coding! Oh yeah, I wrote several machine/deep learning & data engineering [books](https://www.amazon.com/s?k=Md.+Rezaul+Karim&ref=nb_sb_noss) too.
 - I advocate and ecourage reprodcuable research, hence I loving sharing my codes and implementations on GitHub! 
+
+#### Disclaimer: 
 - Opinions are mine, not my employer's! 
 
 #### Interests: 
 <div align="justify">
-I'm passionate about data science, applied ML, explainable AI (XAI) for computer vision and NLP.
+I'm passionate about data science, applied ML, explainable AI (XAI), and knowledge graphs for computer vision and NLP.
 </div>
 
 #### How to reach me?
