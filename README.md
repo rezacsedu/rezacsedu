@@ -23,7 +23,7 @@ I'm passionate about data science, applied ML, explainable AI (XAI), and knowled
 </div>
 
 #### How do you reach me?
-I'm always open to potential research and freelance opportunities: 
+I'm always open to potential research opportunities: 
 
 - Email: rezaul.karim.fit@gmail.com
 - Personal website: https://rezacsedu.github.io/ 
