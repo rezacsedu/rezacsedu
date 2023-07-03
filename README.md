@@ -30,6 +30,7 @@ I'm always open to potential research and freelance opportunities:
 - LinkedIn: https://www.linkedin.com/in/karimrwth/ 
 - Twitter: https://twitter.com/asifkarim85 
 
+### Rezaul Karim, PhD's Profile Stats
 <p align="left"><img src="https://profile-counter.glitch.me/rezacsedu/count.svg" /></p>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=rezacsedu&show_icons=true&hide_border=false) >
@@ -40,6 +41,9 @@ I'm always open to potential research and freelance opportunities:
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rezacsedu&layout=compact&langs_count=10&theme=algolia"/>
 </a>
 </p>
+
+## Streak stats
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rezacsedu&theme=dark" alt="rezacsedu"/> 
 
 <div align="left">  
 Please don't forget to give me stars, if you like this readme file or any resources from my repos! 
