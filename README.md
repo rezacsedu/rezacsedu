@@ -6,13 +6,13 @@
 
 #### Who am I?
 <div align="justify">
-I'm a Senior Data Scientist at ALDI SÜD - Global Data & Analytics, Germany. I did my PhD in Computer Science from RWTH Aachen University, Germany under the supervision of Prof. Dr. Stefan Decker, with distinction (Summan Cum Laude)! I'm adept and experienced at analyzing large-scale datasets, developing accurate predictive models using advanced analytical methods, and implementing data-driven solutions to complex problems towards making them well-interpretable. 
+I'm a Senior Data Scientist at ALDI SÜD - Global Data & Analytics, Germany. I did my PhD in Computer Science from RWTH Aachen University, Germany under the supervision of Prof. Dr. Stefan Decker, with distinction (Summa Cum Laude)! I'm adept and experienced at analyzing large-scale datasets, developing accurate predictive models using advanced analytical methods, and implementing data-driven solutions to complex problems to make them well-interpretable. 
 </div>
 
 #### Why: 
 - I'm a technology lover. I love data science, applied machine learning, explainable AI (XAI), and knowledge graphs. 
 - I love learning, mentoring, and coding! Oh yeah, I wrote several machine/deep learning [books](https://www.amazon.com/s?k=Md.+Rezaul+Karim&ref=nb_sb_noss) too.
-- I advocate and ecourage reprodcuable research, thus loving sharing my codes and implementations on GitHub! 
+- I advocate and encourage reproducible research, thus loving sharing my codes and implementations on GitHub! 
 
 #### Disclaimer: 
 - Opinions are mine, not my employer's! 
@@ -22,27 +22,23 @@ I'm a Senior Data Scientist at ALDI SÜD - Global Data & Analytics, Germany. I d
 I'm passionate about data science, applied ML, explainable AI (XAI), and knowledge graphs for computer vision and NLP.
 </div>
 
-#### How to reach me?
-I'm always open for potential research and freelance opportunities: 
+#### How do you reach me?
+I'm always open to potential research and freelance opportunities: 
 
 - Email: rezaul.karim.fit@gmail.com
 - Personal website: https://rezacsedu.github.io/ 
 - LinkedIn: https://www.linkedin.com/in/karimrwth/ 
 - Twitter: https://twitter.com/asifkarim85 
 
-<!-- <a href="https://github.com/rezacsedu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezacsedu&&theme=dracula&hide_langs_below=1" />
-</a> -->
-<p align="left">
-<img src="https://profile-counter.glitch.me/rezacsedu/count.svg" />
+<p align="left"><img src="https://profile-counter.glitch.me/rezacsedu/count.svg" /></p>
+
+<p align="center">
+<a href="https://github.com/tanhimislam">
+  ![Github stats](https://github-readme-stats.vercel.app/api?username=rezacsedu&show_icons=true&hide_border=false) >
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rezacsedu&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=rezacsedu&show_icons=true&hide_border=false) 
-
-<!-- <p align="left"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/rezacsedu/count.svg" />
-</p> -->
 <div align="left">  
 Please don't forget to give me stars, if you like this readme file or any resources from my repos! 
 </div> 
