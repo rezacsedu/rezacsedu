@@ -34,9 +34,9 @@ I'm always open to potential research and freelance opportunities:
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=rezacsedu&show_icons=true&hide_border=false) >
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/rezacsedu">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rezacsedu&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rezacsedu&langs_count=6&theme=algolia"/>
 </a>
 </p>
 
