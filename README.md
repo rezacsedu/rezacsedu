@@ -36,7 +36,7 @@ I'm always open to potential research opportunities:
 <p align="left">
 <a href="https://github.com/rezacsedu">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rezacsedu&show_icons=true&theme=algolia&include_all_commits=true&count_private=false"/>
- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rezacsedu&hide_progress=true&langs_count=10&layout=compact&theme=algolia"/>
+ <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rezacsedu&hide_progress=true&theme=algolia"/>
 </a>
 </p>
 
