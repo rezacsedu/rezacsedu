@@ -33,7 +33,7 @@ I'm always open to potential research and freelance opportunities:
 ### Rezaul Karim, PhD's Profile Stats
 <p align="left"><img src="https://profile-counter.glitch.me/rezacsedu/count.svg" /></p>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=rezacsedu&show_icons=true&hide_border=false) >
+![Github stats](https://github-readme-stats.vercel.app/api?username=rezacsedu&show_icons=true&hide_border=false&&theme=algolia&include_all_commits=true&count_private=true) >
 
 <p align="left">
 <a href="https://github.com/rezacsedu">
