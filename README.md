@@ -36,12 +36,14 @@ I'm always open to potential research opportunities:
 <p align="left">
 <a href="https://github.com/rezacsedu">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rezacsedu&show_icons=true&theme=algolia&include_all_commits=true&count_private=false"/>
- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rezacsedu&hide_progress=true&hide=WebOntologyLanguage&size_weight=0.5&count_weight=0.5&theme=algolia"/>
+ <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rezacsedu&hide_progress=true&langs_count=10&&layout=compact&theme=algolia"/>
 </a>
 </p>
 
 #### Streak stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rezacsedu&theme=dark" alt="rezacsedu"/> 
+
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rezacsedu)](https://github.com/rezacsedu/github-readme-stats)
 
 #### How to help? 
 
