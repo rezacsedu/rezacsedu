@@ -40,9 +40,11 @@ I'm always open to potential research and freelance opportunities:
 </a>
 </p>
 
-## Streak stats
+#### Streak stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rezacsedu&theme=dark" alt="rezacsedu"/> 
 
+#### How to help? 
+
 <div align="left">  
-Please don't forget to give me stars, if you like this readme file or any resources from my repos! 
+If you like this readme file or any resources from my repos, please don't forget to give me stars!  
 </div> 
