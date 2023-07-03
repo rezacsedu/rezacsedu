@@ -9,15 +9,15 @@
 I'm a Senior Data Scientist at ALDI SÜD - Global Data & Analytics, Germany. I did my PhD in Computer Science from RWTH Aachen University, Germany under the supervision of Prof. Dr. Stefan Decker, with distinction (Summa Cum Laude)! I'm adept and experienced at analyzing large-scale datasets, developing accurate predictive models using advanced analytical methods, and implementing data-driven solutions to complex problems to make them well-interpretable. 
 </div>
 
-#### Why: 
+#### Why?
 - I'm a technology lover. I love data science, applied machine learning, explainable AI (XAI), and knowledge graphs. 
 - I love learning, mentoring, and coding! Oh yeah, I wrote several machine/deep learning [books](https://www.amazon.com/s?k=Md.+Rezaul+Karim&ref=nb_sb_noss) too.
 - I advocate and encourage reproducible research, thus loving sharing my codes and implementations on GitHub! 
 
-#### Disclaimer: 
+#### Disclaimer
 - Opinions are mine, not my employer's! 
 
-#### Interests: 
+#### Interests
 <div align="justify">
 I'm passionate about data science, applied ML, explainable AI (XAI), and knowledge graphs for computer vision and NLP.
 </div>
@@ -30,7 +30,7 @@ I'm always open to potential research and freelance opportunities:
 - LinkedIn: https://www.linkedin.com/in/karimrwth/ 
 - Twitter: https://twitter.com/asifkarim85 
 
-### Rezaul Karim, PhD's Profile Stats
+#### Rezaul Karim's profile stats
 <p align="left"><img src="https://profile-counter.glitch.me/rezacsedu/count.svg" /></p>
 
 <p align="left">
