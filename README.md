@@ -32,9 +32,10 @@ I'm always open to potential research and freelance opportunities:
 
 <p align="left"><img src="https://profile-counter.glitch.me/rezacsedu/count.svg" /></p>
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=rezacsedu&show_icons=true&hide_border=false) >
+
 <p align="center">
 <a href="https://github.com/rezacsedu">
-  ![Github stats](https://github-readme-stats.vercel.app/api?username=rezacsedu&show_icons=true&hide_border=false) >
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rezacsedu&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
