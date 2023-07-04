@@ -6,8 +6,8 @@
 
 #### Who am I?
 <div align="justify">
-I'm a Senior Data Scientist at ALDI SÜD - Global Data & Analytics, Germany. I did my PhD in Explainable AI from RWTH Aachen University, Germany with distinction (Summa Cum Laude)! 
-With 15 years of research and industry experience, I'm adept and experienced at analyzing large-scale datasets, developing accurate predictive models using data science and MLops methods, and implementing data & knowledge-driven analytical and well-interpretable solutions to complex problems.   
+I'm a Senior Data Scientist at ALDI SÜD - Global Data & Analytics (GDA) Services, Germany. I did my PhD in Explainable AI from RWTH Aachen University, Germany with distinction (Summa Cum Laude)! 
+With 15 years of experience in both academia and industry, I'm adept and experienced at analyzing large-scale data, developing accurate predictive models using state-of-the-art data science and MLops methods, and implementing data and knowledge-driven analytical solutions to complex problems, followed by making them well-interpretable and explainable.   
 </div>
 
 #### Why?
