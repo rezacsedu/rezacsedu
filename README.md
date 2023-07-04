@@ -6,7 +6,7 @@
 
 #### Who am I?
 <div align="justify">
-I'm a Senior Data Scientist at ALDI SÜD - Global Data & Analytics (GDA) Services GmbH, Germany. I did my PhD in Explainable AI from RWTH Aachen University, Germany (under the supervision of Prof. Dr. Stefan Decker) with distinction (Summa Cum Laude)! With 15 years of experience in both academia and industry, I'm adept and experienced at analyzing large-scale data, developing accurate predictive models using state-of-the-art data science, machine learning, and MLops methods, and implementing data and knowledge-driven analytical solutions to complex problems, followed by making them well-interpretable and explainable.   
+I'm a Senior Data Scientist at ALDI SÜD - Global Data & Analytics (GDA) Services GmbH, Germany. I did my PhD in Explainable AI (XAI) from RWTH Aachen University, Germany (under the supervision of Prof. Dr. Stefan Decker) with distinction (Summa Cum Laude)! With 15 years of experience in both academia and industry, I'm adept and experienced at analyzing large-scale data, developing accurate predictive models using state-of-the-art data science, machine learning, and MLops methods, and implementing data and knowledge-driven analytical solutions to complex problems, followed by making them explainable and well-interpretable.   
 </div>
 
 #### About me?
