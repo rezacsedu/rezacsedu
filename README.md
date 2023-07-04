@@ -16,10 +16,10 @@ I'm a Senior Data Scientist at ALDI SÜD - Global Data & Analytics (GDA) Service
 - I'm a technology lover. I love data science, applied machine learning, explainable AI (XAI), and knowledge graphs. 
 - I love learning, mentoring, and coding!
 - I wrote several machine/deep learning [books](https://www.amazon.com/s?k=Md.+Rezaul+Karim&ref=nb_sb_noss). 
-- I advocate and encourage reproducible research, thus love sharing my codes and implementations on GitHub! 
+- I advocate and encourage reproducible research, thus I love sharing my codes and implementations on GitHub! 
 
 #### How do you reach me?
-I'm always open to potential research opportunities: 
+I'm always open to potential research opportunities. Feel free to reach me via: 
 
 - **Email**: rezaul.karim.fit@gmail.com
 - **Personal website**: https://rezacsedu.github.io/ 
