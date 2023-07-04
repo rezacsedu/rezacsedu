@@ -6,11 +6,10 @@
 
 #### Who am I?
 <div align="justify">
-I'm a Senior Data Scientist at ALDI SÜD - Global Data & Analytics (GDA) Services, Germany. I did my PhD in Explainable AI from RWTH Aachen University, Germany (under the supervision of Prof. Dr. Stefan Decker) with distinction (Summa Cum Laude)! 
-With 15 years of experience in both academia and industry, I'm adept and experienced at analyzing large-scale data, developing accurate predictive models using state-of-the-art data science and MLops methods, and implementing data and knowledge-driven analytical solutions to complex problems, followed by making them well-interpretable and explainable.   
+I'm a Senior Data Scientist at ALDI SÜD - Global Data & Analytics (GDA) Services GmbH, Germany. I did my PhD in Explainable AI from RWTH Aachen University, Germany (under the supervision of Prof. Dr. Stefan Decker) with distinction (Summa Cum Laude)! With 15 years of experience in both academia and industry, I'm adept and experienced at analyzing large-scale data, developing accurate predictive models using state-of-the-art data science, machine learning, and MLops methods, and implementing data and knowledge-driven analytical solutions to complex problems, followed by making them well-interpretable and explainable.   
 </div>
 
-#### Why?
+#### About me?
 - I'm a technology lover. I love data science, applied machine learning, explainable AI (XAI), and knowledge graphs. 
 - I love learning, mentoring, and coding! Oh yeah, I wrote several machine/deep learning [books](https://www.amazon.com/s?k=Md.+Rezaul+Karim&ref=nb_sb_noss) too.
 - I advocate and encourage reproducible research, thus loving sharing my codes and implementations on GitHub! 
@@ -37,7 +36,7 @@ I'm always open to potential research opportunities:
 <p align="left">
 <a href="https://github.com/rezacsedu">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rezacsedu&show_icons=true&theme=algolia&include_all_commits=true&count_private=false"/>
- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rezacsedu&langs_count=10&hide=Web%20Ontology%20Language,PHP,HTML,JavaScript,CSS&hide_progress=true&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rezacsedu&langs_count=10&hide=Web%20Ontology%20Language,PHP,HTML,JavaScript,CSS&hide_progress=true&theme=algolia"/>
 </a>
 </p>
 
