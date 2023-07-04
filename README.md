@@ -25,10 +25,10 @@ I'm passionate about data science, applied ML, explainable AI (XAI), and knowled
 #### How do you reach me?
 I'm always open to potential research opportunities: 
 
-- Email: rezaul.karim.fit@gmail.com
-- Personal website: https://rezacsedu.github.io/ 
-- LinkedIn: https://www.linkedin.com/in/karimrwth/ 
-- Twitter: https://twitter.com/asifkarim85 
+- **Email**: rezaul.karim.fit@gmail.com
+- **Personal website**: https://rezacsedu.github.io/ 
+- **LinkedIn**: https://www.linkedin.com/in/karimrwth/ 
+- **Twitter**: https://twitter.com/asifkarim85 
 
 #### Rezaul Karim's profile stats
 <p align="left"><img src="https://profile-counter.glitch.me/rezacsedu/count.svg" /></p>
