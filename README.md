@@ -9,7 +9,9 @@
 
 #### Who am I?
 <div align="justify">
-I'm a Senior Data Scientist at ALDI SÜD - International Data & Analytics (IDA) Services GmbH, Germany. I obtained my PhD in Computer Science from RWTH Aachen University majoring in Explainable AI (XAI) with distinction (Summa Cum Laude)! With 15 years of experience in both academia and industry, I'm adept and experienced at analyzing large-scale data, developing accurate predictive models using state-of-the-art data science, machine learning, and MLops methods, and implementing data and knowledge-driven analytical solutions to complex problems, followed by making them explainable and well-interpretable. I'm passionate about data science, applied ML, explainable AI (XAI), and knowledge graphs for computer vision and NLP.
+I'm a Senior Data Scientist at ALDI SÜD - International Data & Analytics (IDA) Services GmbH, Germany. I obtained my PhD in Computer Science from RWTH Aachen University majoring in Explainable AI (XAI) with distinction (Summa Cum Laude)! With 15 years of experience in both academia and industry, I'm adept and experienced at analyzing large-scale data, developing accurate predictive models using state-of-the-art data science, machine learning, and MLops methods, and implementing data and knowledge-driven analytical solutions to complex problems, followed by making them explainable and well-interpretable. 
+  
+I'm passionate about data science, applied ML, explainable AI (XAI), and knowledge graphs for computer vision and NLP.
 </div>
 
 #### My interests
